@@ -1,1 +1,1 @@
-# Hourse_Price_prediction_using_Machine_Learning_Techniques
+# House_Price_prediction_using_Machine_Learning_Techniques
